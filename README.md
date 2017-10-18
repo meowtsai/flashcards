@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlashCard Project
 this project is a content and comment web app.
 Users will be able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Users will also be able to edit and delete posts and comments
@@ -20,3 +21,6 @@ Users will be able to
 
 ## License
 This is a public domain work, dedicated using CC0 1.0.
+=======
+# flashcards
+>>>>>>> d15af52f355c023224d4c09fd58b9502e43b9f0d
